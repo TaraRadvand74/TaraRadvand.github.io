@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 # Site Author
 author:
   # Biographic information
-  avatar           : "profile_tara.png"  # Replace with actual image filename if available
+  avatar           : "tara-avatar.png"  # Replace with actual image filename if available
   name             : "Tara Radvand"
   bio              : "Ph.D. Candidate in Technology and Operations at Ross School of Business"
   location         : "Ann Arbor, MI, USA"
