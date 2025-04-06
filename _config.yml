@@ -23,7 +23,7 @@ author:
   avatar           : "profile.png"  # Replace with actual image filename if available
   name             : "Tara Radvand"
   pronouns         : "she/her"  # Assumed based on common usage; adjust if incorrect
-  bio              : "Ph.D. Candidate in Technology and Operations at Ross School of Business, University of Michigan."
+  bio              : "Ph.D. Candidate in Technology and Operations at Ross School of Business"
   location         : "Ann Arbor, MI, USA"
   employer         : "Ross School of Business, University of Michigan"
   uri              :  # Add personal website URL if applicable
@@ -33,7 +33,6 @@ author:
   arxiv            :  # Add if you have an arXiv profile
   googlescholar    : "https://scholar.google.com/citations?user=yourID"  # Replace with your actual Google Scholar URL
   impactstory      :  # Add if applicable
-  orcid            : "http://orcid.org/your-orcid-id"  # Replace with your ORCID URL
   semantic         :  # Add if applicable
   pubmed           :  # Add if applicable
   researchgate     : "https://www.researchgate.net/profile/Tara-Radvand"  # Replace with your ResearchGate URL if available
@@ -43,7 +42,6 @@ author:
   bitbucket        :  # Add if applicable
   codepen          :  # Add if applicable
   dribbble         :  # Add if applicable
-  github           : "tararadvand"  # Replace with your GitHub username if applicable
   kaggle           :  # Add if applicable
   stackoverflow    :  # Add if applicable
 
@@ -65,7 +63,6 @@ author:
   steam            :  # Add if applicable
   telegram         :  # Add if applicable
   tumblr           :  # Add if applicable
-  twitter          : "TaraRadvand"  # Replace with your Twitter/X handle if applicable
   vine             :  # Add if applicable
   weibo            :  # Add if applicable
   wikipedia        :  # Add if applicable
