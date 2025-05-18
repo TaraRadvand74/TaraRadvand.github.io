@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I’m Tara Radvand, a Ph.D. candidate in Technology and Operations at the University of Michigan’s Ross School of Business. With an MSc in Industrial and Operations Engineering (University of Michigan) and an MSc in Transportation Engineering (Purdue University), both with a perfect 4.0 GPA, I specialize in operations management, supply chain optimization, and sustainable transportation systems. My academic journey began with a Bachelor of Science from Sharif University of Technology, and I am a US Permanent Resident.
+I’m Tara Radvand, a Ph.D. candidate in Technology and Operations at the University of Michigan’s Ross School of Business. She has an MSc in Industrial and Operations Engineering (University of Michigan) and an MSc in Transportation Engineering (Purdue University), both with a perfect 4.0 GPA, I specialize in operations management, supply chain optimization, and sustainable transportation systems. My academic journey began with a Bachelor of Science from Sharif University of Technology, and I am a US Permanent Resident.
 
 My research focuses on dynamic pricing, mechanism design, and stochastic modeling, with applications in ride-sourcing and urban mobility. Supported by grants from the National Science Foundation and Toyota, my work has been published in top journals and presented at prestigious conferences like INFORMS and TRB. I’ve earned accolades such as the Best Presentation Award at MSSISS 2025, the Distinguished Leadership Award from the University of Michigan, and multiple fellowships, including the Henry E. Riggs Fellowship.
 
