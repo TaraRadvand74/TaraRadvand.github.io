@@ -1,0 +1,98 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+
+{% include base_path %}
+
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
+
+---
+title: "Curbing Cruising-as-Substitution-For-Parking in Automated Mobility"
+collection: publications
+permalink: /publication/2022-curbing-cruising
+date: 2022-01-01
+venue: "Transportation Research Part C: Emerging Technologies"
+citation: "Radvand, T., Bahrami, S., Yin, Y., Laberteaux, K. (2022). Curbing Cruising-as-Substitution-For-Parking in Automated Mobility. <i>Transportation Research Part C: Emerging Technologies</i>."
+category: Published
+excerpt: "Supported by National Science Foundation (CMMI-1904575) and Toyota Motor Engineering & Manufacturing North America (TMNA)."
+---
+
+---
+title: "Dynamic Joint Pricing and Empty Relocation Policies for Ride-Sourcing Systems"
+collection: publications
+permalink: /publication/dynamic-pricing-ridesourcing
+date: 2025-01-01
+venue: "Under preparation for submission"
+citation: "Abdolmaleki, M., Chao, X., Radvand, T., Yin, Y. (2025). Dynamic Joint Pricing and Empty Relocation Policies for Ride-Sourcing Systems. <i>Under preparation for submission</i>."
+category: Under Preparation
+excerpt: "Investigates pricing and relocation strategies for ride-sourcing platforms."
+---
+---
+title: "Optimal Diversity"
+collection: publications
+permalink: /publication/optimal-diversity
+date: 2025-01-01
+venue: "Work in progress"
+citation: "Mostagir, M., Radvand, T., Siderius, J. (2025). Optimal Diversity. <i>Work in progress</i>."
+category: Work in Progress
+excerpt: "Solo student author, listed in alphabetical order."
+---
+---
+title: "Zero-shot Statistical Tests for LLM-Generated Text Detection using Finite Sample Concentration Inequalities"
+collection: publications
+permalink: /publication/zero-shot-statistical-tests
+date: 2025-01-01
+venue: "Work in progress"
+citation: "Radvand, T., Abdolmaleki, M., Tewari, A., Mostagir, M. (2025). Zero-shot Statistical Tests for LLM-Generated Text Detection using Finite Sample Concentration Inequalities. <i>Work in progress</i>."
+category: Work in Progress
+excerpt: "Best Presentation Award at MSSISS 2025. Featured in Paris Women in Machine Learning and Data Science (WiMLDS) Weekly Captures."
+---
+---
+title: "Properties of Concrete Containing Guar Gum"
+collection: publications
+permalink: /publication/2020-concrete-guar-gum
+date: 2020-01-01
+venue: "European Journal of Environmental and Civil Engineering"
+citation: "Radvand, T., Toufigh, V. (2020). Properties of Concrete Containing Guar Gum. <i>European Journal of Environmental and Civil Engineering</i>."
+category: Other Publications
+excerpt: "Undergraduate publication."
+---
+---
+title: "Sustainable Routing Guidance for a Road Network with Work Zones During the Connected and Automated Vehicles Era"
+collection: publications
+permalink: /publication/2021-sustainable-routing
+date: 2021-01-01
+venue: "Purdue University Graduate School"
+citation: "Radvand, T. (2021). Sustainable Routing Guidance for a Road Network with Work Zones During the Connected and Automated Vehicles Era. <i>Purdue University Graduate School (Master's Thesis)</i>."
+category: Theses
+excerpt: "Master's thesis exploring sustainable routing in connected and automated vehicle systems."
+---
+
+
