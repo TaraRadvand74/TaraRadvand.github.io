@@ -1,38 +1,46 @@
 ---
 layout: archive
-title: "Leadership and Service"
-permalink: /leadership/
+title: "Honors & Awards"
+permalink: /honors/
 author_profile: true
 ---
 
 {% include base_path %}
 
-<h2>Leadership</h2>
-<ul>
-  <li><strong>K-12 Outreach Teacher and Officer</strong>, Tau Beta Pi Honor Society, University of Michigan (2022–2023)</li>
-  <li><strong>Session Chair</strong>, "Parking Management and the Sharing Economy", INFORMS Annual Meeting (2022)</li>
-  <li><strong>Leadership, Teamwork, and Facilitation Certificate & Travel Grant Recipient</strong>, National Science Foundation CyberAmbassadors Program, Michigan State University (2022)</li>
-  <li><strong>LeaderShape Program Graduate</strong>, University of Michigan (2022)</li>
-</ul>
+<style>
+  ul.custom-honors {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 0.95em;
+    font-family: 'Helvetica Neue', 'Segoe UI', sans-serif;
+    color: #333;
+  }
 
-<h2>Academic Service</h2>
-<ul>
-  <li><strong>Consultation</strong> to prospective Operations Management PhD applicants (2024)</li>
-  <li><strong>Student Coordinator</strong>, Next Generation Transportation Seminar (NGTS), University of Michigan (2022)</li>
-  <li><strong>Co-chair</strong>, International Symposium on Transportation Data and Modelling (ISTDM), 2021</li>
-  <li><strong>Secretary</strong>, Institute of Transportation Engineers, Purdue University (2020)</li>
-  <li><strong>Peer Reviewer</strong>, 2019–2025:
-    <ul>
-      <li>Transportation Research, Part E: Logistics and Transportation Review</li>
-      <li>Research in Transportation Business & Management</li>
-      <li>Transportation Research Board (TRB)</li>
-      <li>ICEEEE’19</li>
-    </ul>
-  </li>
-</ul>
+  ul.custom-honors li {
+    margin-bottom: 0.75em;
+    line-height: 1.5em;
+  }
 
-<h2>Collaboration with Industry & Nonprofits</h2>
-<ul>
-  <li><strong>Service Efficiency Consultant</strong>, GVK EMRI: Emergency Management and Research Institute (2022–2023)</li>
-  <li><strong>Research Collaborator</strong>, Toyota Motor Engineering & Manufacturing North America (TMNA) (2021–2022)</li>
+  ul.custom-honors li strong {
+    color: #1a1a1a;
+    font-weight: 600;
+  }
+
+  ul.custom-honors li em {
+    color: #555;
+  }
+</style>
+
+<ul class="custom-honors">
+  <li><strong>Best Presentation Award</strong>, MSSISS 2025, University of Michigan</li>
+  <li><strong>Distinguished Leadership Award</strong>, University of Michigan</li>
+  <li><strong>Jacobs Incorporation Scholarship & Conference Travel Grant</strong>, COMTO National</li>
+  <li><strong>Garrett A. Morgan Transportation Achievement Scholarship</strong>, COMTO Michigan Chapter</li>
+  <li><strong>Henry E. Riggs Fellowship</strong>, University of Michigan</li>
+  <li><strong>Doctoral Fellowship</strong>, Ross School of Business, University of Michigan</li>
+  <li><strong>Rackham Conference Travel Grant</strong>, University of Michigan</li>
+  <li><strong>Member</strong>, Phi Kappa Phi Honor Society, University of Michigan</li>
+  <li><strong>Member</strong>, Tau Beta Pi Honor Society, University of Michigan</li>
+  <li><strong>Bronze Medal</strong>, 9th National Astronomy and Astrophysics Olympiad</li>
+  <li><strong>Selected for NODET schools</strong> (National Organization for Development of Exceptional Talents) — <em>admission rate &lt;1%</em></li>
 </ul>
