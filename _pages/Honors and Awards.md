@@ -7,7 +7,31 @@ author_profile: true
 
 {% include base_path %}
 
-<ul>
+<style>
+  ul.custom-honors {
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 0.95em;
+    font-family: 'Helvetica Neue', 'Segoe UI', sans-serif;
+    color: #333;
+  }
+
+  ul.custom-honors li {
+    margin-bottom: 0.75em;
+    line-height: 1.5em;
+  }
+
+  ul.custom-honors li strong {
+    color: #1a1a1a;
+    font-weight: 600;
+  }
+
+  ul.custom-honors li em {
+    color: #555;
+  }
+</style>
+
+<ul class="custom-honors">
   <li><strong>Best Presentation Award</strong>, MSSISS 2025, University of Michigan</li>
   <li><strong>Distinguished Leadership Award</strong>, University of Michigan</li>
   <li><strong>Jacobs Incorporation Scholarship & Conference Travel Grant</strong>, COMTO National</li>
