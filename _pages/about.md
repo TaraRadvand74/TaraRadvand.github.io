@@ -26,7 +26,7 @@ redirect_from:
 
 
 <div class="home-intro">
-  <p>Welcome! I'm Tara, a second-year Ph.D. student in Technology and Operations at the University of Michigan, Ross School of Business. I am fortunate to be advised by Mohamed Mostagir.</p>
+  <p>Welcome! I'm Tara, a second-year Ph.D. student in Technology and Operations at the University of Michigan, Ross School of Business. I am fortunate to be advised by Mohamed Mostagir and to collaborate with Ambuj Tewari and James Siderius.</p>
 
   <p>I am broadly interested in social and ethical operations, particularly in how emerging technologies—such as artificial intelligence (AI), automation, and social media recommendation algorithms—reshape business operations, and influence (strategic) user learning, behavior, and collective understanding.</p>
 
