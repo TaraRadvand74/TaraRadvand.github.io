@@ -29,7 +29,8 @@ author_profile: true
 
 <h2>Leadership</h2>
 <ul class="custom-leadership">
-  <li><strong>K-12 Outreach Teacher and Officer</strong>, Tau Beta Pi Honor Society, University of Michigan (2022–2023)</li>
+  <li><strong>K-12 Outreach Teacher and Officer</strong>, Tau Beta Pi Honor Society, University of Michigan (2022–2023)<br /><span class="highlight-label">Award:</span> Distinguished Leadership Award, University of Michigan, 2023<br />
+  </li>
   <li><strong>Session Chair</strong>, "Parking Management and the Sharing Economy", INFORMS Annual Meeting, 2022</li>
   <li><strong>Leadership, Teamwork, and Facilitation Certificate & Travel Grant Recipient</strong>, National Science Foundation CyberAmbassadors Program, Michigan State University, 2022</li>
   <li><strong>LeaderShape Program Graduate</strong>, University of Michigan, 2022</li>
