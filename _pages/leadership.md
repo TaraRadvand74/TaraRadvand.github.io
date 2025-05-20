@@ -43,9 +43,3 @@ author_profile: true
   <li><strong>Secretary</strong>, Institute of Transportation Engineers, Purdue University, 2020</li>
   <li><strong>Peer Reviewer</strong> (2019–2025), Transportation Research, Part E: Logistics and Transportation Review; Transportation Research Board (TRB); ICEEEE’19</li>
 </ul>
-
-<h2>Collaboration with Industry & Nonprofits</h2>
-<ul class="custom-leadership">
-  <li><strong>Service Efficiency Consultant</strong>, GVK EMRI: Emergency Management and Research Institute (2022–2023)</li>
-  <li><strong>Research Collaborator</strong>, Toyota Motor Engineering & Manufacturing North America (TMNA) (2021–2022)</li>
-</ul>
