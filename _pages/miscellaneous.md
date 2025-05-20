@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <style>
-  ul.custom-leadership {
+  ul.custom-misc {
     list-style-type: none;
     padding-left: 0;
     font-size: 0.95em;
@@ -16,30 +16,38 @@ author_profile: true
     color: #333;
   }
 
-  ul.custom-leadership li {
-    margin-bottom: 0.75em;
+  ul.custom-misc li {
+    margin-bottom: 0.9em;
     line-height: 1.6em;
   }
 
-  ul.custom-leadership li strong {
+  ul.custom-misc li strong {
     color: #1a1a1a;
     font-weight: 600;
   }
 </style>
 
-<h2>Leadership</h2>
-<ul class="custom-leadership">
-  <li><strong>K-12 Outreach Teacher and Officer</strong>, Tau Beta Pi Honor Society, University of Michigan (2022–2023)</li>
-  <li><strong>Session Chair</strong>, "Parking Management and the Sharing Economy", INFORMS Annual Meeting, 2022</li>
-  <li><strong>Leadership, Teamwork, and Facilitation Certificate & Travel Grant Recipient</strong>, National Science Foundation CyberAmbassadors Program, Michigan State University, 2022</li>
-  <li><strong>LeaderShape Program Graduate</strong>, University of Michigan, 2022</li>
+<h2>Residency</h2><hr />
+<p>I am a  <strong>U.S. Permanent Resident</strong> (Green Card holder).</p>
+
+<h2>Hobbies</h2><hr />
+<ul class="custom-misc">
+  <li><strong>Watching IMDB Top 250 Movies</strong><br />
+     My all-time favorite movie is <em>12 Angry Men</em>.</li>
+
+  You can view my watch list <a href="/downloads/TV_Shows.pdf" target="_blank" style="text-decoration: underline; font-weight: 500;">here</a>. Suggestions are very appreciated!
+
+  <li><strong>Cooking Cuisines from Different Cultures</strong><br />
+    <em>(Photos coming soon!)</em></li>
+
+  <li><strong>Stargazing and Night Sky Observation</strong><br />
+   <em>(Photos coming soon!)</em> </li>
 </ul>
 
-<h2>Academic Service</h2>
-<ul class="custom-leadership">
-  <li><strong>Apply consultation</strong> to prospective Operations Management PhD applicants, 2024</li>
-  <li><strong>Student Coordinator</strong>, Next Generation Transportation Seminar (NGTS), University of Michigan, 2022</li>
-  <li><strong>Co-chair</strong>, International Symposium on Transportation Data and Modelling (ISTDM), 2021</li>
-  <li><strong>Secretary</strong>, Institute of Transportation Engineers, Purdue University, 2020</li>
-  <li><strong>Peer Reviewer</strong> (2019–2025), Transportation Research, Part E: Logistics and Transportation Review; Transportation Research Board (TRB); ICEEEE’19</li>
+<h2>Volunteering & Public Engagement</h2><hr />
+<ul class="custom-misc">
+  <li><strong>K–12 Education Outreach</strong><br />
+   <em>(Photos coming soon!)</em> </li>
+  <li><strong>Astronomy Day Public Outreach</strong><br />
+    </li>
 </ul>
