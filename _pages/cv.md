@@ -11,4 +11,4 @@ redirect_from:
 
 <p>You can view my CV here:</p>
 
-<p><a href="/downloads/Tara_CV_Website.pdf" target="_blank" style="font-weight: 600; color: #1a1a1a; text-decoration: underline;">Download CV (PDF)</a></p>
+<p><a href="/files/Tara_CV_Website.pdf" target="_blank" style="font-weight: 600; color: #1a1a1a; text-decoration: underline;">Download CV (PDF)</a></p>
