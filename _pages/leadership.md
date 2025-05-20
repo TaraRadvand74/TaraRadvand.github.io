@@ -41,9 +41,7 @@ author_profile: true
   <li><strong>Student Coordinator</strong>, Next Generation Transportation Seminar (NGTS), University of Michigan (2022)</li>
   <li><strong>Co-chair</strong>, International Symposium on Transportation Data and Modelling (ISTDM), 2021</li>
   <li><strong>Secretary</strong>, Institute of Transportation Engineers, Purdue University (2020)</li>
-  <li><strong>Peer Reviewer</strong>, 2019–2025:
-    <ul>
-      <li>Transportation Research, Part E: Logistics and Transportation Review; Transportation Research Board (TRB); ICEEEE’19</li>
+  <li><strong>Peer Reviewer</strong> (2019–2025), Transportation Research, Part E: Logistics and Transportation Review; Transportation Research Board (TRB); ICEEEE’19</li>
     </ul>
   </li>
 </ul>
