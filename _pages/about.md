@@ -6,9 +6,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I'm Tara, a second-year Ph.D. student in Technology and Operations at the University of Michigan, Ross School of Business. I am fortunate to be advised by Mohamed Mostagir. I am broadly interested in social and ethical operations, particularly in how emerging technologies—such as artificial intelligence (AI), automation, and social media recommendation algorithms—reshape business operations, and influence (strategic) user learning, behavior, and collective understanding. 
 
-While studying at Ross, I am also pursuing an MS in Statistics. Before joining Ross, I started an MSc. in Industrial and Operations Engineering at the University of Michigan. Before that, I got an MSc. in Transportation Engineering from Purdue University and a BSc. in Civil and Environmental Engineering from the Sharif University of Technology. In my research before joining Ross, I focused on studying the impacts of new transportation technologies, such as connected and automated vehicles and ridesharing services, on urban mobility, and provided methods for optimizing the system performance.
+<style>
+  .home-intro {
+    font-family: 'Helvetica Neue', 'Segoe UI', sans-serif;
+    font-size: 1.05em;
+    line-height: 1.75em;
+    color: #1a1a1a;
+  }
 
-<strong>Keywords<strong>: Social/Ethical Operations, Online Platforms, Information (News) Platforms, Future Mobility, Networks, Stochastic Modeling, Game Theory.
+  .home-intro strong {
+    color: #000000;
+    font-weight: 600;
+  }
+</style>
 
+<div class="home-intro">
+  <p>Welcome! I'm Tara, a second-year Ph.D. student in Technology and Operations at the University of Michigan, Ross School of Business. I am fortunate to be advised by Mohamed Mostagir.</p>
+
+  <p>I am broadly interested in social and ethical operations, particularly in how emerging technologies—such as artificial intelligence (AI), automation, and social media recommendation algorithms—reshape business operations, and influence (strategic) user learning, behavior, and collective understanding.</p>
+
+  <p>While studying at Ross, I am also pursuing an MS in Statistics. Before joining Ross, I started an MSc. in Industrial and Operations Engineering at the University of Michigan. Prior to that, I earned an MSc. in Transportation Engineering from Purdue University and a BSc. in Civil and Environmental Engineering from Sharif University of Technology. My earlier research focused on the impacts of emerging transportation technologies—such as connected and automated vehicles and ridesharing services—on urban mobility and system optimization.</p>
+
+  <p><strong>Keywords</strong>: Social/Ethical Operations, Online Platforms, Information (News) Platforms, Future Mobility, Networks, Stochastic Modeling, Game Theory.</p>
+</div>
