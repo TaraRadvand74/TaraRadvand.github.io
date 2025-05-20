@@ -34,7 +34,7 @@ author_profile: true
 <ul class="custom-misc">
   <li><strong>Watching IMDB Top 250 Movies</strong><br />
      My all-time favorite movie is <em>12 Angry Men</em>.</li>
-
+<li><strong>Watching Top TV Shows</strong><br />
   You can view my watch list <a href="/downloads/TV_Shows.pdf" target="_blank" style="text-decoration: underline; font-weight: 500;">here</a>. Suggestions are very appreciated!
 
   <li><strong>Cooking Cuisines from Different Cultures</strong><br />
@@ -42,6 +42,9 @@ author_profile: true
 
   <li><strong>Stargazing and Night Sky Observation</strong><br />
    <em>(Photos coming soon!)</em> </li>
+   
+   <li><strong>Walking in the Nature</strong><br />
+   </li>
 </ul>
 
 <h2>Volunteering & Public Engagement</h2><hr />
