@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Tara Radvand's Homepage"
 title_separator          : "-"
 name                     : &name "Tara Radvand"
-description              : &description "Ph.D. Candidate in Technology and Operations at Ross School of Business, University of Michigan, specializing in transportation, operations research, and supply chain management."
+description              : &description "Ph.D. Student in Technology and Operations at Ross School of Business, University of Michigan"
 url                      : https://tararadvand74.github.io/TaraRadvand.github.io/
 baseurl                  : ""
 repository               : "academicpages/academicpages.github.io"
@@ -22,14 +22,14 @@ author:
   # Biographic information
   avatar           : "tara-avatar.png"  # Replace with actual image filename if available
   name             : "Tara Radvand"
-  bio              : "Ph.D. Candidate in Technology and Operations at Ross School of Business"
+  bio              : "Ph.D. Student in Technology and Operations at Ross School of Business"
   location         : "Ann Arbor, MI, USA"
   uri              :  # Add personal website URL if applicable
   email            : "tararad@umich.edu"
 
   # Academic websites
   arxiv            :  # Add if you have an arXiv profile
-  googlescholar    : "https://scholar.google.com/citations?user=yourID"  # Replace with your actual Google Scholar URL
+  googlescholar    : "https://scholar.google.com/citations?user=qbPWSdgAAAAJ&hl=en&oi=ao"  # Replace with your actual Google Scholar URL
   impactstory      :  # Add if applicable
   semantic         :  # Add if applicable
   pubmed           :  # Add if applicable
