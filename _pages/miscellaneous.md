@@ -28,7 +28,9 @@ author_profile: true
 </style>
 
 <h2>Residency</h2><hr />
-<p>I am a  <strong>U.S. Permanent Resident</strong> (Green Card holder).</p>
+<p style="font-weight: 600; font-size: 1.05em; color: #1a1a1a; font-family: 'Helvetica Neue', 'Segoe UI', sans-serif;">
+  I am a <span style="color: #000000; font-weight: 700;">U.S. Permanent Resident</span> (Green Card holder).
+</p>
 
 <h2>Hobbies</h2><hr />
 <ul class="custom-misc">
@@ -42,7 +44,7 @@ author_profile: true
 
   <li><strong>Stargazing and Night Sky Observation</strong><br />
    <em>(Photos coming soon!)</em> </li>
-   
+
    <li><strong>Walking in the Nature</strong><br />
    </li>
 </ul>
