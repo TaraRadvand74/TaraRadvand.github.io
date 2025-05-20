@@ -47,7 +47,6 @@ author_profile: true
 
    <li><strong>Walking in the Nature</strong><br />
    </li>
-</ul>
 
 <h2>Volunteering & Public Engagement</h2><hr />
 <ul class="custom-misc">
