@@ -28,5 +28,5 @@ redirect_from:
 
   <p>While studying at Ross, I am also pursuing an MS in Statistics. Before joining Ross, I started an MSc. in Industrial and Operations Engineering at the University of Michigan. Prior to that, I earned an MSc. in Transportation Engineering from Purdue University and a BSc. in Civil and Environmental Engineering from Sharif University of Technology. My earlier research focused on the impacts of emerging transportation technologies—such as connected and automated vehicles and ridesharing services—on urban mobility and system optimization.</p>
 
-  <p><strong>Keywords</strong>: Social/Ethical Operations, Online Platforms, Information (News) Platforms, Future Mobility, Networks, Stochastic Modeling, Game Theory.</p>
+  <p><span style="font-weight:600; color:#000;">Keywords</span>: Social/Ethical Operations, Online Platforms, Information (News) Platforms, Future Mobility, Networks, Stochastic Modeling, Game Theory.</p>
 </div>
