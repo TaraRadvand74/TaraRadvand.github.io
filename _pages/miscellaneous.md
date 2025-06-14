@@ -52,4 +52,3 @@ author_profile: true
   <li><strong>K–12 Education Outreach</strong><br />
   <li><strong>Astronomy Day Public Outreach</strong><br />
     </li>
-</ul>
