@@ -44,7 +44,6 @@ author_profile: true
 
   <li><strong>Stargazing and Night Sky Observation</strong><br />
 
-
    <li><strong>Walking in the Nature</strong><br />
    </li>
 
