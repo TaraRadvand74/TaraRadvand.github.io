@@ -47,7 +47,7 @@ author_profile: true
 
 <h2>Honor Societies</h2>
 <ul class="custom-honors">
-   <li>[2025] <strong>Full Membership</strong>, Sigma Xi, The Sientific Research Honor Society</li>
+   <li>[2025] <strong>Full Membership</strong>, Sigma Xi, The Scientific Research Honor Society</li>
    <li>[2025] <strong>Member</strong>, Phi Kappa Phi Honor Society, University of Michigan</li>
    <li> [2022] <strong>Member</strong>, Tau Beta Pi Honor Society, University of Michigan</li>
 </ul>
