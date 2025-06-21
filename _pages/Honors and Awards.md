@@ -51,3 +51,4 @@ author_profile: true
    <li>[2025] <strong>Member</strong>, Phi Kappa Phi Honor Society, University of Michigan</li>
    <li> [2022] <strong>Member</strong>, Tau Beta Pi Honor Society, University of Michigan</li>
 </ul>
+
