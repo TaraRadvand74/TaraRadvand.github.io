@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Honors & Awards"
+title: "Awards & Media"
 permalink: /honors/
 author_profile: true
 ---
@@ -44,6 +44,20 @@ author_profile: true
   <li>[2013] <strong>Bronze Medal</strong>, 9th National Astronomy and Astrophysics Olympiad</li>
   <li>[2010] <strong>Selected for NODET schools</strong> (National Organization for Development of Exceptional Talents) — <em>admission rate &lt;1%</em></li>
 </ul>
+
+<h2>Media Recognition</h2>
+<ul class="custom-honors">
+<li> [2025] Michigan News: <a href="https://news.umich.edu/u-m-researchers-devise-tool-for-detecting-ai-that-scores-high-on-accuracy-low-on-false-accusations/" target="_blank" rel="noopener noreferrer">
+  U-M Researchers Devise Tool for Detecting AI That Scores High on Accuracy, Low on False Accusations
+</a>
+<br />
+<li> [2025] Ross Faculty News & Research:  <a href="https://michiganross.umich.edu/news/michigan-ross-research-team-creates-ai-detection-tool" target="_blank" rel="noopener noreferrer">
+  Michigan Ross Research Team Creates AI Detection Tool
+</a>
+<br />
+<li> [2025] Paris Women in Machine Learning and Data Science (WiMLDS) Weekly Captures: <a href="https://www.linkedin.com/posts/wimldsparis_this-weeks-paper-who-wrote-this-zero-shot-activity-7285981721320161280-0rnK?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXo1hIB_qHG8jNq08QIL0vjFy3vbOtWva4" target="_blank" rel="noopener noreferrer">
+</ul>
+
 
 <h2>Honor Societies</h2>
 <ul class="custom-honors">
