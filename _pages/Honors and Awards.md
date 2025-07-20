@@ -55,9 +55,15 @@ author_profile: true
   Michigan Ross Research Team Creates AI Detection Tool
 </a>
 <br />
-<li> [2025] <strong>Paris Women in Machine Learning and Data Science (WiMLDS) Weekly Captures<strong>: <a href="https://www.linkedin.com/posts/wimldsparis_this-weeks-paper-who-wrote-this-zero-shot-activity-7285981721320161280-0rnK?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXo1hIB_qHG8jNq08QIL0vjFy3vbOtWva4" target="_blank" rel="noopener noreferrer">
-</a>
-<br />
+<ul>
+  <li> [2025] <strong>Paris Women in Machine Learning and Data Science (WiMLDS) Weekly Captures</strong>: 
+    <a href="https://www.linkedin.com/posts/wimldsparis_this-weeks-paper-who-wrote-this-zero-shot-activity-7285981721320161280-0rnK?utm_source=share&utm_medium=member_desktop&rcm=ACoAABXo1hIB_qHG8jNq08QIL0vjFy3vbOtWva4" 
+       target="_blank" 
+       rel="noopener noreferrer">
+      This Week’s Paper: Who Wrote This? Zero-Shot Statistical Tests for LLM-Generated Text Detection
+    </a>
+    <br />
+  </li>
 </ul>
 
 
