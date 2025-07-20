@@ -62,7 +62,6 @@ author_profile: true
       This Week’s Paper: Who Wrote This? Zero-Shot Statistical Tests for LLM-Generated Text Detection
     </a>
     <br />
-  </li>
 </ul>
 
 
