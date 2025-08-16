@@ -51,5 +51,6 @@ author_profile: true
 <h2>Volunteering & Public Engagement</h2><hr />
 <ul class="custom-misc">
   <li><strong>K–12 Education Outreach</strong><br />
+    Some photos: <a href="https://raw.githubusercontent.com/TaraRadvand74/TaraRadvand.github.io/master/files/K_12_outreach_photos.pdf" target="_blank" style="text-decoration: underline; font-weight: 500;">here</a>.
   <li><strong>Astronomy Day Public Outreach</strong><br />
     </li>
