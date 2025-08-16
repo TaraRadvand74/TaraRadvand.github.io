@@ -43,6 +43,7 @@ author_profile: true
   
 
   <li><strong>Stargazing and Night Sky Observation</strong><br />
+  Some photos: <a href="https://raw.githubusercontent.com/TaraRadvand74/TaraRadvand.github.io/master/files/Sky_Observation_Photos.pdf" target="_blank" style="text-decoration: underline; font-weight: 500;">here</a>.
 
    <li><strong>Walking in the Nature</strong><br />
    </li>
