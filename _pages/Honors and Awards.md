@@ -66,7 +66,6 @@ author_profile: true
 
 <h2>Grants</h2>
 <ul class="custom-honors">
-  <li>2026 <strong>Ross Doctoral Grants</strong> ($4,000), Ross School of Business, University of Michigan</li>
   <li>2023-2028 <strong>Doctoral Fellowship</strong>, Ross School of Business, University of Michigan</li>
   <li>2021,2022,2025 <strong>Rackham Conference Travel Grant</strong>, University of Michigan</li>
 </ul>
