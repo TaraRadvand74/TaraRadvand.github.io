@@ -33,6 +33,7 @@ author_profile: true
 
 <h2>Awards</h2>
 <ul class="custom-honors">
+  <li>[2026] <strong>Empowering Research with AI Award</strong> ($1,000), AI Institutes at Michigan (AIIM), University of Michigan</li>
   <li>[2025] <strong>Best Presentation Award</strong>, MSSISS 2025, University of Michigan</li>
   <li>[2025] <strong>Ross Early PhD Candidacy Award</strong>, Ross School of Business, University of Michigan</li>
   <li>[2023] <strong>Distinguished Leadership Award</strong>, University of Michigan</li>
