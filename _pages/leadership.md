@@ -45,7 +45,7 @@ author_profile: true
 
 <h2>Academic Service</h2>
 <ul class="custom-leadership">
-  <li><strong>Apply consultation</strong> to prospective Operations Management PhD applicants, 2024</li>
+  <li><strong>PhD Apply Consultation</strong> to prospective Operations Management PhD applicants, 2024-current</li>
   <li><strong>Student Coordinator</strong>, Next Generation Transportation Seminar (NGTS), University of Michigan, 2022</li>
   <li><strong>Co-chair</strong>, International Symposium on Transportation Data and Modelling (ISTDM), 2021</li>
   <li><strong>Secretary</strong>, Institute of Transportation Engineers, Purdue University, 2020</li>
