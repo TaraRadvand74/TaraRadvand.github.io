@@ -23,7 +23,7 @@ author_profile: true
   }
 
   ul.custom-research li {
-    margin-bottom: 1.4em;
+    margin-bottom: 1.6em;
     line-height: 1.6em;
   }
 
@@ -41,25 +41,93 @@ author_profile: true
     margin-top: 0.25em;
   }
 
+  .paper-note {
+    display: block;
+    font-size: 90%;
+    font-weight: 400;
+    color: #555;
+    margin-top: 0.15em;
+  }
+
+  .paper-links {
+    margin-top: 0.35em;
+    font-size: 0.95em;
+  }
+
+  .paper-links a {
+    font-weight: 500;
+    text-decoration: underline;
+  }
+
+  .paper-details {
+    margin-top: 0.55em;
+    margin-left: 1.4em;
+    padding-left: 0.9em;
+    border-left: 2px solid #e6e6e6;
+  }
+
+  .detail-row {
+    display: block;
+    margin: 0.25em 0;
+  }
+
   .highlight-label {
     color: #b30000;
     font-weight: 600;
   }
 
   .grant-label {
-    color: #2e8b57; /* emerald green */
+    color: #2e8b57;
     font-weight: 600;
+  }
+
+  .media-label {
+    color: #6a3d9a;
+    font-weight: 600;
+  }
+
+  .presentation-label {
+    color: #1f4e79;
+    font-weight: 600;
+  }
+
+  .publication-label,
+  .funding-label,
+  .thesis-label {
+    color: #444;
+    font-weight: 600;
+  }
+
+  .selective-marker {
+    display: inline-block;
+    margin-left: 0.35em;
+    color: #8a6d1d;
+    font-size: 0.95em;
+    font-weight: 700;
+    vertical-align: baseline;
+  }
+
+  .selective-note {
+    color: #555;
+    font-size: 0.9em;
+    font-style: italic;
   }
 </style>
 
 <h2>Work in Progress</h2><hr />
 <ul class="custom-research">
   <li>
-    <strong class="title">Collaborative Disagreement</strong> 
-    <small class="authors"> Tara Radvand, Mohamed Mostagir, James Siderius</small>
-        <strong>Presentation</strong> – Eleventh Marketplace Innovation Workshop (MIW), 2026<br />
-        <strong>Presentation</strong> – Revenue Management and Pricing (RMP) Conference, Michigan Ross, 2026<br />
+    <strong class="title">Collaborative Disagreement</strong>
+    <small class="authors">Tara Radvand, Mohamed Mostagir, James Siderius</small>
 
+    <div class="paper-details">
+      <span class="detail-row">
+        <span class="presentation-label">Presentation:</span> Eleventh Marketplace Innovation Workshop (MIW), 2026
+      </span>
+      <span class="detail-row">
+        <span class="presentation-label">Presentation:</span> Revenue Management and Pricing (RMP) Conference, Michigan Ross, 2026
+      </span>
+    </div>
   </li>
 </ul>
 
@@ -67,35 +135,65 @@ author_profile: true
 <ul class="custom-research">
   <li>
     <strong class="title">
-      <a href="https://arxiv.org/abs/2501.02406" target="_blank" style="text-decoration: underline;">A Training-free Method for LLM Text Attribution</a><br />
-      <small>(Previous title: Zero-shot Statistical Tests for LLM-Generated Text Detection using Finite Sample Concentration Inequalities)</small>
+      <a href="https://arxiv.org/abs/2501.02406" target="_blank" style="text-decoration: underline;">A Training-free Method for LLM Text Attribution</a>
+      <small class="paper-note">(Previous title: Zero-shot Statistical Tests for LLM-Generated Text Detection using Finite Sample Concentration Inequalities)</small>
     </strong>
-    <small class="authors">Tara Radvand, Mojtaba Abdolmaleki, Mohamed Mostagir, Ambuj Tewari</small><br />
+    <small class="authors">Tara Radvand, Mojtaba Abdolmaleki, Mohamed Mostagir, Ambuj Tewari</small>
 
-    <span class="highlight-label">Award:</span> Empowering Research with AI Award 2026 ($1,000), AI Institutes at Michigan (AIIM)<br />
-    <span class="highlight-label">Award:</span> Best Presentation Award at MSSISS 2025<br />
+    <div class="paper-links">
+      <a href="https://github.com/TaraRadvand74/llm-text-detection" target="_blank">GitHub Repository</a> |
+      <a href="https://huggingface.co/spaces/tararad/Liketropy-LLM-Detector" target="_blank">Live Demo</a>
+    </div>
 
-    <span class="highlight-label">Media:</span> Featured in Michigan News:
-    <a href="https://news.umich.edu/u-m-researchers-devise-tool-for-detecting-ai-that-scores-high-on-accuracy-low-on-false-accusations/" target="_blank" rel="noopener noreferrer">
-      U-M Researchers Devise Tool for Detecting AI That Scores High on Accuracy, Low on False Accusations
-    </a><br />
+    <div class="paper-details">
+      <span class="detail-row">
+        <span class="highlight-label">Award:</span> Empowering Research with AI Award 2026 ($1,000), AI Institutes at Michigan (AIIM)
+      </span>
 
-    <span class="highlight-label">Media:</span> Featured in Ross News:
-    <a href="https://michiganross.umich.edu/news/michigan-ross-research-team-creates-ai-detection-tool" target="_blank" rel="noopener noreferrer">
-      Michigan Ross Research Team Creates AI Detection Tool
-    </a><br />
+      <span class="detail-row">
+        <span class="highlight-label">Award:</span> Best Presentation Award at MSSISS 2025
+      </span>
 
-    <span class="highlight-label">Media:</span> Featured in Paris Women in Machine Learning and Data Science (WiMLDS) Weekly Captures<br />
+      <span class="detail-row">
+        <span class="media-label">Media:</span> Featured in Michigan News:
+        <a href="https://news.umich.edu/u-m-researchers-devise-tool-for-detecting-ai-that-scores-high-on-accuracy-low-on-false-accusations/" target="_blank" rel="noopener noreferrer">
+          U-M Researchers Devise Tool for Detecting AI That Scores High on Accuracy, Low on False Accusations
+        </a>
+      </span>
 
-   <span class="grant-label">Grant:</span> Awarded by Ross Doctoral Grants for experiment extension ($4,000)<br />
+      <span class="detail-row">
+        <span class="media-label">Media:</span> Featured in Ross News:
+        <a href="https://michiganross.umich.edu/news/michigan-ross-research-team-creates-ai-detection-tool" target="_blank" rel="noopener noreferrer">
+          Michigan Ross Research Team Creates AI Detection Tool
+        </a>
+      </span>
 
-    <strong>Presentation</strong> – MSOM SIG-Day - Technology, Innovation, and Entrepreneurship (TIE), Harvard Business School, 2026<br />
-    <strong>Presentation</strong> – Revenue Management and Pricing (RMP) Conference, Michigan Ross, 2026<br />
-    <strong>Presentation</strong> – Revenue Management and Pricing (RMP) Conference, Columbia University, 2025<br />
-    <strong>Presentation</strong> – MSSISS Conference [Invited], University of Michigan, 2025<br />
+      <span class="detail-row">
+        <span class="media-label">Media:</span> Featured in Paris Women in Machine Learning and Data Science (WiMLDS) Weekly Captures
+      </span>
 
-    <a href="https://github.com/TaraRadvand74/llm-text-detection" target="_blank" style="font-weight: 500; text-decoration: underline;">GitHub Repository</a> | 
-    <a href="https://huggingface.co/spaces/tararad/Liketropy-LLM-Detector" target="_blank" style="font-weight: 500; text-decoration: underline;">Live Demo</a>
+      <span class="detail-row">
+        <span class="grant-label">Grant:</span> Awarded by Ross Doctoral Grants for experiment extension ($4,000)
+      </span>
+
+      <span class="detail-row">
+        <span class="presentation-label">Presentation:</span> MSOM SIG-Day - Technology, Innovation, and Entrepreneurship (TIE), Harvard Business School, 2026
+        <span class="selective-marker" title="Highly selective presentation venue">★</span>
+        <span class="selective-note">Highly selective venue</span>
+      </span>
+
+      <span class="detail-row">
+        <span class="presentation-label">Presentation:</span> Revenue Management and Pricing (RMP) Conference, Michigan Ross, 2026
+      </span>
+
+      <span class="detail-row">
+        <span class="presentation-label">Presentation:</span> Revenue Management and Pricing (RMP) Conference, Columbia University, 2025
+      </span>
+
+      <span class="detail-row">
+        <span class="presentation-label">Presentation:</span> MSSISS Conference [Invited], University of Michigan, 2025
+      </span>
+    </div>
   </li>
 
   <li>
@@ -116,11 +214,25 @@ author_profile: true
         Curbing Cruising-as-Substitution-For-Parking in Automated Mobility
       </a>
     </strong>
-    <small class="authors">Tara Radvand, Sina Bahrami, Yafeng Yin, Ken Laberteaux (Industry Collaborator)</small><br />
-    <i>Transportation Research Part C: Emerging Technologies</i>, 2022<br />
-    <strong>Presentation</strong> – TRB Peer-reviewed Conference [Invited Poster], 2022<br />
-    <strong>Presentation</strong> – INFORMS Annual Meeting, Anaheim, 2021<br />
-    <strong>Funding & Industry Collaboration:</strong> National Science Foundation (CMMI-1904575) and Toyota Motor Engineering & Manufacturing North America (TMNA)
+    <small class="authors">Tara Radvand, Sina Bahrami, Yafeng Yin, Ken Laberteaux (Industry Collaborator)</small>
+
+    <div class="paper-details">
+      <span class="detail-row">
+        <span class="publication-label">Published:</span> <i>Transportation Research Part C: Emerging Technologies</i>, 2022
+      </span>
+
+      <span class="detail-row">
+        <span class="presentation-label">Presentation:</span> TRB Peer-reviewed Conference [Invited Poster], 2022
+      </span>
+
+      <span class="detail-row">
+        <span class="presentation-label">Presentation:</span> INFORMS Annual Meeting, Anaheim, 2021
+      </span>
+
+      <span class="detail-row">
+        <span class="funding-label">Funding & Industry Collaboration:</span> National Science Foundation (CMMI-1904575) and Toyota Motor Engineering & Manufacturing North America (TMNA)
+      </span>
+    </div>
   </li>
 </ul>
 
@@ -129,15 +241,28 @@ author_profile: true
   <li>
     <strong class="title">Sustainable Routing Guidance for a Road Network with Work Zones During the Connected and Automated Vehicles Era</strong>
     <small class="authors">Tara Radvand</small>
-    <i>Purdue University Graduate School (Master’s Thesis)</i>, 2021
+
+    <div class="paper-details">
+      <span class="detail-row">
+        <span class="thesis-label">Thesis:</span> <i>Purdue University Graduate School (Master’s Thesis)</i>, 2021
+      </span>
+    </div>
   </li>
 </ul>
 
 <h2>Other Publications</h2><hr />
 <ul class="custom-research">
   <li>
-    <strong class="title">Properties of Concrete Containing Guar Gum</strong> <small>(Undergraduate Publication)</small>
+    <strong class="title">
+      Properties of Concrete Containing Guar Gum
+      <small class="paper-note">(Undergraduate Publication)</small>
+    </strong>
     <small class="authors">Tara Radvand, Vahab Toufigh</small>
-    <i>European Journal of Environmental and Civil Engineering</i>, 2020<br />
+
+    <div class="paper-details">
+      <span class="detail-row">
+        <span class="publication-label">Published:</span> <i>European Journal of Environmental and Civil Engineering</i>, 2020
+      </span>
+    </div>
   </li>
 </ul>
