@@ -99,18 +99,19 @@ author_profile: true
   }
 
   .selective-marker {
-    display: inline-block;
-    margin-left: 0.35em;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.35em;
+    height: 1.35em;
+    margin-right: 0.45em;
+    border-radius: 50%;
+    background-color: #f7edd0;
     color: #8a6d1d;
-    font-size: 0.95em;
+    font-size: 1em;
     font-weight: 700;
-    vertical-align: baseline;
-  }
-
-  .selective-note {
-    color: #555;
-    font-size: 0.9em;
-    font-style: italic;
+    line-height: 1;
+    vertical-align: text-bottom;
   }
 </style>
 
@@ -177,9 +178,8 @@ author_profile: true
       </span>
 
       <span class="detail-row">
+        <span class="selective-marker" title="Notable presentation" aria-label="Notable presentation">★</span>
         <span class="presentation-label">Presentation:</span> MSOM SIG-Day - Technology, Innovation, and Entrepreneurship (TIE), Harvard Business School, 2026
-        <span class="selective-marker" title="Highly selective presentation venue">★</span>
-        <span class="selective-note">Highly selective venue</span>
       </span>
 
       <span class="detail-row">
