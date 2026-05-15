@@ -13,8 +13,8 @@ title                    : "Tara Radvand's Homepage"
 title_separator          : "-"
 name                     : &name "Tara Radvand"
 description              : &description "Ph.D. Candidate in Technology and Operations at Ross School of Business, University of Michigan"
-url                      : https://tararadvand74.github.io/TaraRadvand.github.io/
-baseurl                  : ""
+url: "https://tararadvand74.github.io"
+baseurl: "/TaraRadvand.github.io"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author
